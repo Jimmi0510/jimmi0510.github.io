@@ -381,10 +381,9 @@ img{
     }
 }
 
-#auto-typing-animation p span.typed-text {
-    font-weight: normal;
-    color: var(--skin-color);
-    /* color: var(--fb-typing-text); */
+#namaUtama p span.namaUt {
+    font-weight: bold;
+    color: #ffffff;
 }
 #auto-typing-animation p span.cursor {
     display: inline-block;
